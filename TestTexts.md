@@ -4,6 +4,7 @@
 
 - concatenate {a} and {b} will result in {a}{b}
 - concatenate ddd and dd will result in ddddd
+- concatenate ddd and cc will result in dddcc
 
 # Test B
 
